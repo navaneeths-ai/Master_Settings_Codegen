@@ -1,6 +1,9 @@
 """
 Masters Negative Leave — HR Admin sets Negative Leave to Disabled
 
+Make the Credentials change according to need
+Only for AI/ML Team config Purpose
+
 Steps:
   1. Login as HR Admin (SSSRC018)
   2. Navigate to Settings → Masters → Attendance → Leave
@@ -416,3 +419,4 @@ def run_masters_negative_leave():
 
 if __name__ == "__main__":
     run_masters_negative_leave()
+
